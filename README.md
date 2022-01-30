@@ -28,9 +28,3 @@ mXparser – Math Expressions Parser for JAVA Android C# .NET/MONO/Xamarin – M
 
 #### GitHub Link :
 https://github.com/mariuszgromada/MathParser.org-mXparser
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/300x600/https://github.com/Royalaviation18/Latest_Calculator/blob/main/Cal1_SSGb.png)
-
