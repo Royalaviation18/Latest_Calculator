@@ -1,2 +1,0 @@
-# Calculator
- Kotlin based Calculator
